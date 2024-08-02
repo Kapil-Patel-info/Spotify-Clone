@@ -1,8 +1,6 @@
 # Spotify-Clone
 # using html and css 
-# responsibe 
-#used 
-webkit-slider for input range custom styling
+#webkit-slider for input range custom styling
 
 
 
