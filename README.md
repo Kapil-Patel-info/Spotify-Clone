@@ -1,5 +1,5 @@
 # Spotify-Clone
-# using html and css 
+# using html and css
 #webkit-slider for input range custom styling
 
 
